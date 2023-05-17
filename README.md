@@ -2,4 +2,4 @@
 
 Bambi navigates through the environment, ostensibly foraging. It treads carefully, avoiding any major obstacles in its path, and, when encountered, looks to both sides to choose the unobstructed one. Sound is the modality of focus. While Bambi forages, any sound of a higher amplitude than what the agent is used to - resembling a predator running towards him - will initially trigger a flight reaction. This will take the form of Bambi turning in the opposite direction of the stimulus to flee from the potential danger. After successfully escaping the source of potential peril, the agent will resume foraging. As triggers present themselves repeatedly, due to Bambi remaining unharmed from all previous encounters, it will get confident and start to flee less and less, reaching the point where it will do so no more. Namely, it will habituate to the loud sounds from the environment.
 
-A more thorough technical report can be found within the repository as "bambi-report".
+A more thorough technical report can be found within the repository as "AS_report_final (2).pdf".
